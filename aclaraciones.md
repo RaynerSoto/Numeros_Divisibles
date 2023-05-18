@@ -1,0 +1,1 @@
+Los números primos solamente puede ser naturales
